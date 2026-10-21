@@ -15,3 +15,4 @@ elif nilai_akhir >= 75 and kehadiran >= 80:
     print("Status : LULUS")
 else:
     print("Status : BELUM LULUS")
+
